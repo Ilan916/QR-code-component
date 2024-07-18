@@ -5,3 +5,7 @@
 ## Welcome! 👋
 
 The project is build in HTML and CSS only !
+
+## Link for check the result
+
+https://ilan916.github.io/QR-code-component/
